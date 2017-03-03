@@ -1,0 +1,206 @@
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - update\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\Constract with calss graph and mst and k-clusters - BFS - update for edge final 2 - Copy\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\some errors\final with errors\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\final with errors - Copy\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final final 1\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\New folder\Final 1.2\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\veesion 2\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Hazem\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Hazem\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Hazem\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Hazem\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Hazem\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Hazem\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Hazem\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Hazem\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Downloads\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1)\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\veesion 3\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SaherOs\Desktop\Project\Algo\final 2\veesion-3 (1) - Copy\a7a ya hima\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\final algo\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\final algo\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\desctop\كلية سنة تالتة ترم اول\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\desctop\كلية سنة تالتة ترم اول\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\my projects\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\my projects\ImageQuantization team (51)\ImageQuantization\obj\Debug\ImageQuantization.pdb

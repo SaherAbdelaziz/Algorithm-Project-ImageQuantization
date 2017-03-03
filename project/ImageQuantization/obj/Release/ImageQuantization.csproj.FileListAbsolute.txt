@@ -1,0 +1,3 @@
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\SaherOs\Desktop\Project first try\[1] image quantization\Startup Code\Image Quantization Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
